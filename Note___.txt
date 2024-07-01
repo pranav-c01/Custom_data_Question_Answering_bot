@@ -1,0 +1,5 @@
+#pip install torch==1.4.0+cpu torchvision==0.5.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+
+Also to run this , clientapp.py ke example ko run karte hai , vo chal rha means proj is working.
+Other story which we are providing is not working , perhaps model is trianed for that particular story and query only
+
